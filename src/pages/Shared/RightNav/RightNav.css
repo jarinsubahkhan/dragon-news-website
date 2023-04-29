@@ -1,0 +1,56 @@
+.W-50{
+border-radius: 5px;
+
+}
+.mt-10{
+    margin-top: 78px;
+}
+.deg h2{
+    position: absolute;
+    width: 190px;
+    height: 135px;
+    left: 1150px;
+    top: 1490px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 45px;
+    /* or 150% */
+    
+    text-align: center;
+    color: #FFFFFF;
+   
+}
+.deg p{
+    position: absolute;
+width: 199px;
+height: 130px;
+left: 1150px;
+top: 1650px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.deg button{
+    position: absolute;
+width: 150px;
+height: 64px;
+left: 1180px;
+top: 1800px;
+background-color: brown;
+color: #FFFFFF;
+border: none;
+}
+.deg{
+    width:auto;
+}

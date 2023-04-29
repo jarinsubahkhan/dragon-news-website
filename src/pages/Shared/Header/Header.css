@@ -1,0 +1,17 @@
+.text{
+    background: #F3F3F3;
+    padding: 16px;
+    margin-bottom: 50px;
+}
+.btn{
+    border-radius: 0%;
+}
+.dark{
+    width: 140px;
+height: 44px;
+background: #403F3F;
+}
+.text-black{
+    font-size: 18px;
+    font-weight: 600;
+}
